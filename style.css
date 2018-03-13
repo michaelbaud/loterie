@@ -1,0 +1,10 @@
+* {
+	margin: auto;
+	text-align: center;
+}
+
+.active {
+  color: #fff;
+  background-color: black;
+  border: dotted;
+}
